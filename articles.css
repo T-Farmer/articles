@@ -3,6 +3,7 @@
 	font-family: Arial;
 	font-size: 1em;
 	color: white;
+	line-height: 1.25em;
 }
 
 .rapArticle	{
@@ -10,6 +11,7 @@
 	font-family: Impact;
 	font-size: 3em;
 	color: yellow;
+	line-height: 1em;
 }
 
 .musicArticle	{
@@ -17,6 +19,7 @@
 	font-family: "Comic Sans MS";
 	font-size: 1.5em;
 	color: purple;
+	line-height: 1.5em;
 }
 
 .techArticle	{
@@ -24,6 +27,7 @@
 	font-family: "Lucida Console";
 	font-size: 2.5em;
 	color: blue;
+	line-height: 2em;
 }
 
 .clothingArticle	{
@@ -31,4 +35,5 @@
 	font-family: Verdana;
 	font-size: 2em;
 	color: pink;
+	line-height: 2.5em;
 }
