@@ -4,6 +4,7 @@
 	font-size: 1em;
 	color: white;
 	line-height: 1.25em;
+	padding: 0;
 }
 
 .rapArticle	{
@@ -12,6 +13,7 @@
 	font-size: 3em;
 	color: yellow;
 	line-height: 1em;
+	padding: .5em;
 }
 
 .musicArticle	{
@@ -20,6 +22,7 @@
 	font-size: 1.5em;
 	color: purple;
 	line-height: 1.5em;
+	padding: 1em;
 }
 
 .techArticle	{
@@ -28,6 +31,7 @@
 	font-size: 2.5em;
 	color: blue;
 	line-height: 2em;
+	padding: 1.5em;
 }
 
 .clothingArticle	{
@@ -36,4 +40,5 @@
 	font-size: 2em;
 	color: pink;
 	line-height: 2.5em;
+	padding: 2em;
 }
