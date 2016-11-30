@@ -2,28 +2,33 @@
 	background-color: orange;
 	font-family: Arial;
 	font-size: 1em;
+	color: white;
 }
 
 .rapArticle	{
 	background-color: blue;
 	font-family: Impact;
 	font-size: 3em;
+	color: yellow;
 }
 
 .musicArticle	{
 	background-color: green;
 	font-family: "Comic Sans MS";
 	font-size: 1.5em;
+	color: purple;
 }
 
 .techArticle	{
 	background-color: yellow;
 	font-family: "Lucida Console";
 	font-size: 2.5em;
+	color: blue;
 }
 
 .clothingArticle	{
 	background-color: purple;
 	font-family: Verdana;
 	font-size: 2em;
+	color: pink;
 }
