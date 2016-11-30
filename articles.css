@@ -1,19 +1,24 @@
 .gamesArticle	{
 	background-color: orange;
+	font-family: Arial;
 }
 
 .rapArticle	{
 	background-color: blue;
+	font-family: Impact;
 }
 
 .musicArticle	{
 	background-color: green;
+	font-family: "Comic Sans MS";
 }
 
 .techArticle	{
 	background-color: yellow;
+	font-family: "Lucida Console";
 }
 
 .clothingArticle	{
 	background-color: purple;
+	font-family: Verdana;
 }
